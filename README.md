@@ -1,2 +1,2 @@
 # automacaoimpressoes
-Programa que automatiza impressões de documentos recorrentes
+Programa que automatiza impressões de documentos.
